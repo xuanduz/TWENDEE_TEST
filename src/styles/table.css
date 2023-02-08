@@ -1,0 +1,7 @@
+.table-body-row td {
+  height: 50px !important
+}
+.table-body-row td p {
+  line-height: 50px !important;
+  margin: unset;
+}
